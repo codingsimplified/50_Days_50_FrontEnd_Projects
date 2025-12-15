@@ -101,9 +101,9 @@ It motivates me to create more free content for the community.
 
 👉 Want more frontend projects, DSA tutorials, and coding tips? Follow me here:
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://instagram.com/coding.simplified.space)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://youtube.com/@codingsimplifiedspace)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-brightblue)](https://facebook.com/codingsimplifiedspace)
+📸 Instagram: @coding.simplified.space
+🎥 YouTube: Coding Simplified Space
+📘 Facebook: Coding Simplified Space
 
 
 🙌 Contributing
